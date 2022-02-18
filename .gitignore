@@ -8,3 +8,5 @@ obj/*.o
 sample/*.txt
 !sample/CMakeLists.txt
 build/
+/.idea/
+/cmake-build-debug/
